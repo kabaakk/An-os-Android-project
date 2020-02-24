@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "327146492688",
+    "firebase_url": "https://anios-de7c1.firebaseio.com",
+    "project_id": "anios-de7c1",
+    "storage_bucket": "anios-de7c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327146492688:android:27fd22611485aa5cbc8b95",
+        "android_client_info": {
+          "package_name": "com.res.anos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327146492688-udqej6844pb4uc6ed801u0cupaef2p90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.res.anos",
+            "certificate_hash": "8321f793044318119cdef7acc962c59c49a6a641"
+          }
+        },
+        {
+          "client_id": "327146492688-tekvo6ttcgmq4g9278m5hqllipa9uvis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_8Z7PaMpjubHtHRn-Im4L1qEuqVDrzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327146492688-tekvo6ttcgmq4g9278m5hqllipa9uvis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
